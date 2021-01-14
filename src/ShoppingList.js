@@ -22,4 +22,3 @@ export class ShoppingList extends React.Component {
       </div>
     );
   }
-}
