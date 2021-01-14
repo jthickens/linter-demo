@@ -13,6 +13,8 @@ export class ShoppingList extends React.Component {
           <li>Oculus</li>
         </ul>
         <form>
+          <input aria-labeledby="terms" type="checked"/>
+          <div id="terms">Yes, I accept the terms and conditions.</div>
           <div role="butten" aria-disable="true">
             Purchase
           </div>
